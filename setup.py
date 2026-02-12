@@ -17,6 +17,7 @@ setup(
         'flask',  # only include if the project has a web component or similar functionality requiring flask
         'dnspython',
         'setuptools',
+        'pycryptodome',
         # add other dependencies as necessary
     ],
     scripts=[
